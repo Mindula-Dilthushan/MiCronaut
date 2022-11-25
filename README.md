@@ -15,7 +15,6 @@ git clone https://github.com/Mindula-Dilthushan/MiCronaut.git
 - [Configuration Reference](https://docs.micronaut.io/3.7.4/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 
----
 
 ## Feature http-client documentation
 
